@@ -1,0 +1,104 @@
+{
+  "status": 200,
+  "result": [
+      {
+          "partnerCapitalTotalId": 16,
+          "typeName": "Cash Contributions",
+          "date": "2020-11-18T00:00:00+01:00",
+          "amount": 50000.00000000,
+          "partners": [
+              {
+                  "code": "980676-1",
+                  "name": "TST 666 Third, LLC",
+                  "amount": 9600.000000000000000000000000,
+                  "percentage": 0.19200000000000000000
+              },
+              {
+                  "code": "018805",
+                  "name": "Crossfire REIT, L.L.C.",
+                  "amount": 40400.000000000000000000000000,
+                  "percentage": 0.80800000000000000000
+              },
+              {
+                  "code": "980676-2",
+                  "name": "Chrysler East Building GP LLC",
+                  "amount": 0,
+                  "percentage": 0.00000000000000000000
+              },
+              {
+                  "code": "980676-1",
+                  "name": "TST 666 Third, LLC",
+                  "amount": 9600.000000000000000000000000,
+                  "percentage": 0.19200000000000000000
+              },
+              {
+                  "code": "018805",
+                  "name": "Crossfire REIT, L.L.C.",
+                  "amount": 40400.000000000000000000000000,
+                  "percentage": 0.80800000000000000000
+              },
+              {
+                  "code": "980676-2",
+                  "name": "Chrysler East Building GP LLC",
+                  "amount": 0,
+                  "percentage": 0.00000000000000000000
+              },
+              {
+                  "code": "980676-1",
+                  "name": "TST 666 Third, LLC",
+                  "amount": 9600.000000000000000000000000,
+                  "percentage": 0.19200000000000000000
+              },
+              {
+                  "code": "018805",
+                  "name": "Crossfire REIT, L.L.C.",
+                  "amount": 40400.000000000000000000000000,
+                  "percentage": 0.80800000000000000000
+              },
+              {
+                  "code": "980676-2",
+                  "name": "Chrysler East Building GP LLC",
+                  "amount": 0,
+                  "percentage": 0.00000000000000000000
+              },
+              {
+                  "code": "980676-1",
+                  "name": "TST 666 Third, LLC",
+                  "amount": 9600.000000000000000000000000,
+                  "percentage": 0.19200000000000000000
+              },
+              {
+                  "code": "018805",
+                  "name": "Crossfire REIT, L.L.C.",
+                  "amount": 40400.000000000000000000000000,
+                  "percentage": 0.80800000000000000000
+              },
+              {
+                  "code": "980676-2",
+                  "name": "Chrysler East Building GP LLC",
+                  "amount": 0,
+                  "percentage": 0.00000000000000000000
+              },
+              {
+                  "code": "980676-1",
+                  "name": "TST 666 Third, LLC",
+                  "amount": 9600.000000000000000000000000,
+                  "percentage": 0.19200000000000000000
+              },
+              {
+                  "code": "018805",
+                  "name": "Crossfire REIT, L.L.C.",
+                  "amount": 40400.000000000000000000000000,
+                  "percentage": 0.80800000000000000000
+              },
+              {
+                  "code": "980676-2",
+                  "name": "Chrysler East Building GP LLC",
+                  "amount": 0,
+                  "percentage": 0.00000000000000000000
+              }
+          ],
+          "capitalType": "GAAP"
+      }
+  ]
+}

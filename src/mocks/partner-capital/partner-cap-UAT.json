@@ -1,0 +1,59 @@
+{
+  "status": 200,
+  "result": {
+      "endingProfitPercentage": 0,
+      "contributionAmount": 50000.00000000,
+      "distributionAmount": 0,
+      "netIncomeLoss": 0,
+      "otherCapitalAdjustments": 0,
+      "otherBasisAdjustments": null,
+      "beginningCapital": null,
+      "endingCapital": 0,
+      "debt": 0,
+      "endingBasis": null,
+      "partners": [
+          {
+              "partnerId": 100862,
+              "partnerName": "TST 666 Third, LLC",
+              "endingProfitPercentage": null,
+              "contributionAmount": 0.00000000,
+              "distributionAmount": 0,
+              "netIncomeLoss": 0,
+              "otherCapitalAdjustments": 0,
+              "otherBasisAdjustments": null,
+              "beginningCapital": null,
+              "endingCapital": 0,
+              "debt": 0,
+              "endingBasis": null
+          },
+          {
+              "partnerId": 100642,
+              "partnerName": "Crossfire REIT, L.L.C.",
+              "endingProfitPercentage": null,
+              "contributionAmount": 0.00000000,
+              "distributionAmount": 0,
+              "netIncomeLoss": 0,
+              "otherCapitalAdjustments": 0,
+              "otherBasisAdjustments": null,
+              "beginningCapital": null,
+              "endingCapital": 0,
+              "debt": 0,
+              "endingBasis": null
+          },
+          {
+              "partnerId": 100629,
+              "partnerName": "Chrysler East Building GP LLC",
+              "endingProfitPercentage": null,
+              "contributionAmount": 0.00000000,
+              "distributionAmount": 0,
+              "netIncomeLoss": 0,
+              "otherCapitalAdjustments": 0,
+              "otherBasisAdjustments": null,
+              "beginningCapital": null,
+              "endingCapital": 0,
+              "debt": 0,
+              "endingBasis": null
+          }
+      ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "result": {
+      "items": [{
+          "partnerId": 100046,
+          "partnerCode": "5011",
+          "partnerName": "J6"
+      }, {
+          "partnerId": 100047,
+          "partnerCode": "5012",
+          "partnerName": "MRP"
+      }]
+  }
+}

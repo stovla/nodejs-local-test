@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "result": [
+      {
+          "capitalEventTypeId": 10,
+          "capitalEventTypeName": "Cash Contributions"
+      },
+      {
+          "capitalEventTypeId": 11,
+          "capitalEventTypeName": "Property Contributions"
+      },
+      {
+          "capitalEventTypeId": 12,
+          "capitalEventTypeName": "Services Contributions"
+      },
+      {
+          "capitalEventTypeId": 13,
+          "capitalEventTypeName": "Adjustment to Contributions"
+      }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "result": [{
+      "partnerId": 100041,
+      "partnerCode": "5014",
+      "partnerName": "Partnership F"
+  }, {
+      "partnerId": 100042,
+      "partnerCode": "5016",
+      "partnerName": "Partnership G"
+  }, {
+      "partnerId": 100043,
+      "partnerCode": "5018",
+      "partnerName": "Partnership H"
+  }, {
+      "partnerId": 100044,
+      "partnerCode": "5020",
+      "partnerName": "Partnership I"
+  }, {
+      "partnerId": 100046,
+      "partnerCode": "5011",
+      "partnerName": "J6"
+  }, {
+      "partnerId": 100047,
+      "partnerCode": "5012",
+      "partnerName": "MRP"
+  }, {
+      "partnerId": 100048,
+      "partnerCode": "5013",
+      "partnerName": "J7"
+  }, {
+      "partnerId": 100049,
+      "partnerCode": "5015",
+      "partnerName": "J8"
+  }, {
+      "partnerId": 100050,
+      "partnerCode": "5017",
+      "partnerName": "J9"
+  }, {
+      "partnerId": 100051,
+      "partnerCode": "5019",
+      "partnerName": "J10"
+  }]
+}

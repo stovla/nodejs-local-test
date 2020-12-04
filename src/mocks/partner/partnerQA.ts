@@ -1,0 +1,1 @@
+export const partnerQA = {"status":200,"result":[{"partnerId":100046,"partnerCode":"5011","partnerName":"J6","partnerEntityId":100046},{"partnerId":100047,"partnerCode":"5012","partnerName":"MRP","partnerEntityId":100047}]}

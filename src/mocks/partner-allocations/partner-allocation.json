@@ -1,0 +1,1625 @@
+{
+    "status": 200,
+    "result": [
+        {
+            "entityId": 100041,
+            "entityIdentifier": "2b6ed6ca-d6e5-4240-bbb9-c7f22b0fbdec",
+            "entityName": "Partnership F",
+            "taxableIncome": 360618.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.07,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18778.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18778.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 844.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8545.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 844.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8545.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91266.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91266.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45633.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45633.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50574.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50574.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9694.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15593.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15593.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9694.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 100044,
+            "entityIdentifier": "356c66bf-070e-4ccf-a6a7-daba10cd0813",
+            "entityName": "Partnership I",
+            "taxableIncome": 360622.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.100000000000000,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18784.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18784.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91272.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91272.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50566.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50566.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 100042,
+            "entityIdentifier": "ed5d4086-efa7-497b-aeb4-f67b9f996bea",
+            "entityName": "Partnership G",
+            "taxableIncome": 360622.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.100000000000000,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18784.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18784.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91272.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91272.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50566.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50566.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 100049,
+            "entityIdentifier": "8ecc0dcf-54ea-4440-a479-09d9c7503240",
+            "entityName": "J8",
+            "taxableIncome": 360622.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.100000000000000,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18784.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18784.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91272.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91272.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50566.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50566.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 100051,
+            "entityIdentifier": "cdfe5376-8480-403c-95cb-77b99dca2f0a",
+            "entityName": "J10",
+            "taxableIncome": 360622.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.100000000000000,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18784.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18784.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91272.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91272.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50566.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50566.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 100050,
+            "entityIdentifier": "9a55ebbb-fdc8-48a5-a92a-9d1860cf8b81",
+            "entityName": "J9",
+            "taxableIncome": 360622.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.1075,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18784.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18784.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91272.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91272.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50566.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50566.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 100048,
+            "entityIdentifier": "c26691cf-a371-4dcb-93d8-cf30ffe2baa6",
+            "entityName": "J7",
+            "taxableIncome": 360622.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.0925,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18784.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18784.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91272.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91272.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50566.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50566.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 100043,
+            "entityIdentifier": "8120bf14-4f09-4396-b307-783977613091",
+            "entityName": "Partnership H",
+            "taxableIncome": 360622.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.100000000000000,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18784.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18784.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91272.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91272.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50566.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50566.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 100047,
+            "entityIdentifier": "f30bb624-4f77-44a9-a843-b85eb49fc5ae",
+            "entityName": "MRP",
+            "taxableIncome": 360622.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.100000000000000,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18784.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18784.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91272.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91272.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50566.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50566.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 100046,
+            "entityIdentifier": "6cee8677-6d31-4b69-b569-aea267cb3d13",
+            "entityName": "J6",
+            "taxableIncome": 360622.00,
+            "defaultPercentage": 10,
+            "cyplPercentage": 0.100000000000000,
+            "lines": [
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 18784.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707323",
+                            "accountDescription": "Stock Lending Fees - Portfolio (Other)",
+                            "amount": 18784.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 650700, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 8544.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 660100, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707323",
+                                    "amount": 848.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 200000.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707329",
+                            "accountDescription": "Partnership Expenses - Portfolio (Other)",
+                            "amount": 200000.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 422200, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707329",
+                                    "amount": 100000.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 91272.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707316",
+                            "accountDescription": "Advisory Fees - Portfolio (Other)",
+                            "amount": 91272.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 651215, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707316",
+                                    "amount": 45636.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                },
+                {
+                    "formId": 1,
+                    "formName": "1065",
+                    "formSectionId": 1,
+                    "formSectionName": "Sch K-1",
+                    "lineId": 37,
+                    "lineName": "Line 13l",
+                    "lineDescription": "Deductions - portfolio (other)",
+                    "allocationMethod": "Default",
+                    "amount": 50566.00,
+                    "k1SuitTag": null,
+                    "accounts": [
+                        {
+                            "accountNumber": "707327",
+                            "accountDescription": "SWAP (Expenses) - Investor - Portfolio(Other)",
+                            "amount": 50566.00,
+                            "allocationMethod": "Default",
+                            "attributeSets": [
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "BusinessType: BusinessType1, BusinessUnitCode: X, BusinessUnitname: Property X, EntityCode: 5021, GLAccount: 604110, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 15590.00,
+                                    "allocationMethod": "Default"
+                                },
+                                {
+                                    "attributeSetName": "EntityCode: 5021, GLAccount: 620420, JD: Arkansas, ProfileId: e375dee2-fce2-4d79-af4d-0611af05f5a4, SourceOfData: Trial Balance Posting, TaxAccount: 707327",
+                                    "amount": 9693.00,
+                                    "allocationMethod": "Default"
+                                }
+                            ],
+                            "businessUnits": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

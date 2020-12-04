@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "result": [
+      {
+          "partnerEntityId": 100629,
+          "entityName": "Chrysler East Building GP LLC",
+          "allocationPercentage": 0.00000000000000000000,
+          "amount": null,
+          "roundingRank": 0
+      },
+      {
+          "partnerEntityId": 100642,
+          "entityName": "Crossfire REIT, L.L.C.",
+          "allocationPercentage": 0.80800000000000000000,
+          "amount": null,
+          "roundingRank": 1
+      },
+      {
+          "partnerEntityId": 100862,
+          "entityName": "TST 666 Third, LLC",
+          "allocationPercentage": 0.19200000000000000000,
+          "amount": null,
+          "roundingRank": 0
+      }
+  ]
+}
