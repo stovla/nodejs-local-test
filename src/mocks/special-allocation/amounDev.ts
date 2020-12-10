@@ -1,7 +1,6 @@
 export const amountDev = {
   "status": 200,
   "result": {
-    "totalAmount": 800,
     "specialAllocations": [
       {
         "jobId": 619,
@@ -9,6 +8,7 @@ export const amountDev = {
         "formSectionName": "Sch K-1",
         "lineName": "Line 11i",
         "taxAccountNumber": "500240",
+        "totalAmount": 800,
         "accountAttributes": [],
         "allocationAttributes": [],
         "fixedAllocationAttributes": [
@@ -45,18 +45,6 @@ export const amountDev = {
             "attributesValue": "500240-009-289"
           },
           {
-            "attributeName": "SourceOfData",
-            "attributesValue": "Trial Balance Posting"
-          },
-          {
-            "attributeName": "BusinessType",
-            "attributesValue": "BusinessType1"
-          },
-          {
-            "attributeName": "BusinessUnitCode",
-            "attributesValue": "X"
-          },
-          {
             "attributeName": "BusinessUnitname",
             "attributesValue": "Property X"
           },
@@ -72,6 +60,7 @@ export const amountDev = {
         "formSectionName": "Sch K-1",
         "lineName": "Line 11i",
         "taxAccountNumber": "500240",
+        "totalAmount": -800,
         "accountAttributes": [],
         "allocationAttributes": [],
         "fixedAllocationAttributes": [
@@ -108,18 +97,6 @@ export const amountDev = {
             "attributesValue": "500240-007-362"
           },
           {
-            "attributeName": "SourceOfData",
-            "attributesValue": "Trial Balance Posting"
-          },
-          {
-            "attributeName": "BusinessType",
-            "attributesValue": "BusinessType1"
-          },
-          {
-            "attributeName": "BusinessUnitCode",
-            "attributesValue": "X"
-          },
-          {
             "attributeName": "BusinessUnitname",
             "attributesValue": "Property X"
           },
@@ -135,6 +112,7 @@ export const amountDev = {
         "formSectionName": "Sch K-1",
         "lineName": "Line 11i",
         "taxAccountNumber": "500240",
+        "totalAmount": 800,
         "accountAttributes": [],
         "allocationAttributes": [],
         "fixedAllocationAttributes": [
@@ -171,18 +149,6 @@ export const amountDev = {
             "attributesValue": "500240-004-789"
           },
           {
-            "attributeName": "SourceOfData",
-            "attributesValue": "Trial Balance Posting"
-          },
-          {
-            "attributeName": "BusinessType",
-            "attributesValue": "BusinessType1"
-          },
-          {
-            "attributeName": "BusinessUnitCode",
-            "attributesValue": "X"
-          },
-          {
             "attributeName": "BusinessUnitname",
             "attributesValue": "Property X"
           },
@@ -198,6 +164,7 @@ export const amountDev = {
         "formSectionName": "Sch K-1",
         "lineName": "Line 11i",
         "taxAccountNumber": "500240",
+        "totalAmount": -800,
         "accountAttributes": [],
         "allocationAttributes": [],
         "fixedAllocationAttributes": [
@@ -234,18 +201,6 @@ export const amountDev = {
             "attributesValue": "500240-001-877"
           },
           {
-            "attributeName": "SourceOfData",
-            "attributesValue": "Trial Balance Posting"
-          },
-          {
-            "attributeName": "BusinessType",
-            "attributesValue": "BusinessType1"
-          },
-          {
-            "attributeName": "BusinessUnitCode",
-            "attributesValue": "X"
-          },
-          {
             "attributeName": "BusinessUnitname",
             "attributesValue": "Property X"
           },
@@ -261,6 +216,7 @@ export const amountDev = {
         "formSectionName": "Sch K-1",
         "lineName": "Line 11i",
         "taxAccountNumber": "500240",
+        "totalAmount": 800,
         "accountAttributes": [],
         "allocationAttributes": [],
         "fixedAllocationAttributes": [
@@ -297,18 +253,6 @@ export const amountDev = {
             "attributesValue": "500240-002-835"
           },
           {
-            "attributeName": "SourceOfData",
-            "attributesValue": "Trial Balance Posting"
-          },
-          {
-            "attributeName": "BusinessType",
-            "attributesValue": "BusinessType1"
-          },
-          {
-            "attributeName": "BusinessUnitCode",
-            "attributesValue": "X"
-          },
-          {
             "attributeName": "BusinessUnitname",
             "attributesValue": "Property X"
           },
@@ -324,6 +268,7 @@ export const amountDev = {
         "formSectionName": "Sch K-1",
         "lineName": "Line 11i",
         "taxAccountNumber": "500240",
+        "totalAmount": -800,
         "accountAttributes": [],
         "allocationAttributes": [],
         "fixedAllocationAttributes": [
@@ -360,18 +305,6 @@ export const amountDev = {
             "attributesValue": "500240-004-264"
           },
           {
-            "attributeName": "SourceOfData",
-            "attributesValue": "Trial Balance Posting"
-          },
-          {
-            "attributeName": "BusinessType",
-            "attributesValue": "BusinessType1"
-          },
-          {
-            "attributeName": "BusinessUnitCode",
-            "attributesValue": "X"
-          },
-          {
             "attributeName": "BusinessUnitname",
             "attributesValue": "Property X"
           },
@@ -387,6 +320,7 @@ export const amountDev = {
         "formSectionName": "Sch K-1",
         "lineName": "Line 11i",
         "taxAccountNumber": "500240",
+        "totalAmount": 800,
         "accountAttributes": [],
         "allocationAttributes": [],
         "fixedAllocationAttributes": [
@@ -423,18 +357,6 @@ export const amountDev = {
             "attributesValue": "500240-006-833"
           },
           {
-            "attributeName": "SourceOfData",
-            "attributesValue": "Trial Balance Posting"
-          },
-          {
-            "attributeName": "BusinessType",
-            "attributesValue": "BusinessType1"
-          },
-          {
-            "attributeName": "BusinessUnitCode",
-            "attributesValue": "X"
-          },
-          {
             "attributeName": "BusinessUnitname",
             "attributesValue": "Property X"
           },
@@ -450,6 +372,7 @@ export const amountDev = {
         "formSectionName": "Sch K-1",
         "lineName": "Line 0",
         "taxAccountNumber": "500510",
+        "totalAmount": -800,
         "accountAttributes": [
           {
             "attributeName": "Activity",
@@ -491,18 +414,6 @@ export const amountDev = {
             "attributesValue": "500510-003-161"
           },
           {
-            "attributeName": "SourceOfData",
-            "attributesValue": "Trial Balance Posting"
-          },
-          {
-            "attributeName": "BusinessType",
-            "attributesValue": "BusinessType1"
-          },
-          {
-            "attributeName": "BusinessUnitCode",
-            "attributesValue": "X"
-          },
-          {
             "attributeName": "BusinessUnitname",
             "attributesValue": "Property X"
           },
@@ -518,6 +429,7 @@ export const amountDev = {
         "formSectionName": "Sch K-1",
         "lineName": "Line 0",
         "taxAccountNumber": "500510",
+        "totalAmount": 800,
         "accountAttributes": [],
         "allocationAttributes": [],
         "fixedAllocationAttributes": [
@@ -552,18 +464,6 @@ export const amountDev = {
           {
             "attributeName": "GLAccount",
             "attributesValue": "500510-003-305"
-          },
-          {
-            "attributeName": "SourceOfData",
-            "attributesValue": "Trial Balance Posting"
-          },
-          {
-            "attributeName": "BusinessType",
-            "attributesValue": "BusinessType1"
-          },
-          {
-            "attributeName": "BusinessUnitCode",
-            "attributesValue": "X"
           },
           {
             "attributeName": "BusinessUnitname",

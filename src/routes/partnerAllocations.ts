@@ -12,7 +12,7 @@ const router = Router();
 
 router.get('/job/:jobid', (req, res, next) => {
   // jsonData.result = [];
-  res.status(200).json(allocationsUAT);
+  res.status(200).json(jsonData);
 });
 
 export default router;
