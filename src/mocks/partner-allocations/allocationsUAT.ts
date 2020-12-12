@@ -5,9 +5,11 @@ export const allocationsUAT = {
       "entityId": 100629,
       "entityIdentifier": "7bc780de-d484-4b40-ac32-e492343f5c8c",
       "entityName": "Chrysler East Building GP LLC",
-      "taxableIncome": 0,
+      "entityCode": "980676-2",
+      "taxableIncome": -378523,
       "defaultPercentage": 0,
       "cyplPercentage": 0,
+      "roundingRank": 0,
       "lines": [
         {
           "formId": null,
@@ -18,71 +20,78 @@ export const allocationsUAT = {
           "lineName": "Line 02",
           "lineDescription": null,
           "allocationMethod": "Default",
-          "amount": 0,
+          "amount": -378523,
           "k1SuitTag": "FDK1_RRE",
           "accounts": [
             {
               "accountNumber": "40212",
               "accountDescription": "40212 - Insurance",
-              "amount": 0,
+              "amount": -348030,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40212,US/NON US:US",
-                  "amount": 0,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600100",
+                  "amount": 4388,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": 0,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600200",
+                  "amount": -85650,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": 0,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600300",
+                  "amount": -188684,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": 0,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600400",
+                  "amount": -10699,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": 0,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600600",
+                  "amount": -2409,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": 0,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600650",
+                  "amount": -57392,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": 0,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600700",
+                  "amount": -7584,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -348030,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40214",
               "accountDescription": "40214 - Rent Expense",
-              "amount": 0,
+              "amount": -30493,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40214,US/NON US:US",
-                  "amount": 0,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530500",
+                  "amount": -30493,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -30493,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40609",
@@ -91,57 +100,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400800",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410110",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410160",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410210",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410245,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410245",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410270,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410270",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410280,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410280",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410290,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410290",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:440200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:440200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40702",
@@ -150,47 +165,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400350",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:40702,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400550",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40706",
@@ -199,37 +205,33 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405150",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "52631",
@@ -238,12 +240,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:549900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:52631,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:549900",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "52900",
@@ -252,12 +260,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:651200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:52900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:651200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53001",
@@ -266,27 +280,33 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500560,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500560",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500660,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500660",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500760,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500760",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:512110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:512110",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53003",
@@ -295,27 +315,28 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53003,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:640100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53003,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:640150",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53003,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53003,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:640300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53100",
@@ -324,67 +345,43 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,Code Section:743(b),EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Code Section:743(b),RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670140,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670140",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670140,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670140,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670221",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670230",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670221,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670230,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670230,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670230,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53204",
@@ -393,27 +390,28 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53204,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Interest Expense:DFD,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:660200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,Interest Expense:DFD,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:660500",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53601",
@@ -422,27 +420,28 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53601,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:620200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53601,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:620210",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53601,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620250,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53601,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:620250",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53602",
@@ -451,107 +450,113 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530310,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530310",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530900",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530910,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530910",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531210",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:532100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:532100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613010,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613010",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613020,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613020",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613030,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613030",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613040,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613040",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613050,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613050",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630440,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630440",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53603",
@@ -560,32 +565,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:520200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:520200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:520400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:520400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:520700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:520700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:521000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:521000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:529000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:529000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53607",
@@ -594,72 +605,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:660850",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670110",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660850,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670170",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660850,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670175",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660850,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670170,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670170,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670170,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670175,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670190,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670190",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53610",
@@ -668,77 +645,83 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530800",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630660,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630660",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630990,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630990",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636005,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636005",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636030,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636030",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636040,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636040",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636060,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636060",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636065,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636065",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636070,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636070",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636080,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636080",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53612",
@@ -747,57 +730,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604110",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604160",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604311,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604311",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604316,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604316",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630650",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:650400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:650400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53615",
@@ -806,57 +795,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610900",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630410",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630420",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630410,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630410,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630420,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630420,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630430,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630430,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630430",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53700",
@@ -865,37 +835,43 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510500",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:511000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:511000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:511200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:511200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53800",
@@ -904,202 +880,208 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540550",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540650",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543500",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543800",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544180,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544180",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544350",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545350",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:546000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:546000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:546100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:546100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:546700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:546700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:547000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:547000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:548200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:548200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:548800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:548800",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:549300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:549300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:550000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:550000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:560000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:560000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:562000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:562000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:564000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:564000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:566000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:566000",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53900",
@@ -1108,77 +1090,78 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500310,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500310",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500500",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500610",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500610,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500710",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500710,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500900",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501460",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501460,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501660",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501660,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:502060",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:502060,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:512111,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:512111",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "54000",
@@ -1187,82 +1170,73 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610500",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610510",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610610",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610610,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610620",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610620,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610650",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610800",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:611200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:611300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:612200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:54000,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:612200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:612400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:612400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "54100",
@@ -1271,37 +1245,43 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630910,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630910",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630920,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630920",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630940,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630940",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630950,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630950",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630960,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630960",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630980,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630980",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1324,12 +1304,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1352,12 +1338,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54600,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1380,12 +1372,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,Code Section:743(b),EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Code Section:743(b),RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1408,12 +1406,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,Interest Expense:DFD,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Interest Expense:DFD,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1436,57 +1440,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400800",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410110",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410160",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410210",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410245,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410245",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410270,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410270",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410280,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410280",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410290,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410290",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:440200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:440200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40702",
@@ -1495,47 +1505,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400350",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:40702,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400550",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40706",
@@ -1544,37 +1545,33 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405150",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40800",
@@ -1583,12 +1580,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1611,12 +1614,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:300150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:32620,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:300150",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1639,12 +1648,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1653,9 +1668,97 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 9,
-          "lineName": "Line K - Ending",
-          "lineDescription": null,
+          "lineId": 29,
+          "lineName": "Line 20z | Section 199A Qualified Business Income/ (Deduction)",
+          "lineDescription": "Section 199A Qualified Business Income/ (Deduction)",
+          "allocationMethod": "Default",
+          "amount": 0,
+          "k1SuitTag": "",
+          "accounts": [
+            {
+              "accountNumber": "67802",
+              "accountDescription": "67802 - Section 199A Qualified Business Income/ (Deduction)",
+              "amount": 0,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "formId": null,
+          "formName": "1065",
+          "formSectionId": null,
+          "formSectionName": "Sch K-1",
+          "lineId": 26,
+          "lineName": "Line K - Ending | Qualified Nonrecourse Financing",
+          "lineDescription": "Qualified Nonrecourse Financing",
+          "allocationMethod": "Default",
+          "amount": 0,
+          "k1SuitTag": "",
+          "accounts": [
+            {
+              "accountNumber": "22104",
+              "accountDescription": "22104 - Interest Payable",
+              "amount": 0,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Qualified nonrecourse financing,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203500",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
+            },
+            {
+              "accountNumber": "22400",
+              "accountDescription": "22400 - Long-Term Debt (Over One Year)",
+              "amount": 0,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Qualified nonrecourse financing,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:225100",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "formId": null,
+          "formName": "1065",
+          "formSectionId": null,
+          "formSectionName": "Sch K-1",
+          "lineId": 23,
+          "lineName": "Line K - Ending | Recourse",
+          "lineDescription": "Recourse",
           "allocationMethod": "Default",
           "amount": 0,
           "k1SuitTag": "",
@@ -1667,85 +1770,48 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:200100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:200200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:201100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:201100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203150",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:21900,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203400,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
-            },
-            {
-              "accountNumber": "22104",
-              "accountDescription": "22104 - Interest Payable",
-              "amount": 0,
-              "allocationMethod": "Default",
-              "attributeSets": [
+              "businessUnits": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203500,Partnership Liabilities:Qualified nonrecourse financing,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22104,US/NON US:US",
+                  "businessUnitName": "Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
-              ],
-              "businessUnits": []
-            },
-            {
-              "accountNumber": "22400",
-              "accountDescription": "22400 - Long-Term Debt (Over One Year)",
-              "amount": 0,
-              "allocationMethod": "Default",
-              "attributeSets": [
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:225100,Partnership Liabilities:Qualified nonrecourse financing,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22400,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                }
-              ],
-              "businessUnits": []
+              ]
             },
             {
               "accountNumber": "22506",
@@ -1754,22 +1820,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:22506,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:22506,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22506,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "22508",
@@ -1778,17 +1840,23 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:204100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22508,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:204100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:208600,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22508,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:208600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "22511",
@@ -1797,42 +1865,28 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:22511,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:22511,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205150",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22511,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:22511,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:22511,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22511,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205410,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22511,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205410",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1841,9 +1895,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 12,
-          "lineName": "Property - Ending Accumulated Depreciation",
-          "lineDescription": null,
+          "lineId": 19,
+          "lineName": "Property - Ending Accumulated Depreciation | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 0,
           "k1SuitTag": "",
@@ -1855,87 +1909,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:11200,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106400",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106500",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106510",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -1944,9 +1949,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 13,
-          "lineName": "Property - Ending Depreciable Assets (Cost)",
-          "lineDescription": null,
+          "lineId": 20,
+          "lineName": "Property - Ending Depreciable Assets (Cost) | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 0,
           "k1SuitTag": "",
@@ -1958,162 +1963,103 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:103100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:103100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:103100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104105",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104110",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104105,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104120",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104105,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104500",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104120,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104510",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104520",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104525",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104530",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104540",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104550",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104520,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104520,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104525,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105201",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104530,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104530,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104540,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104540,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105201,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105201,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -2122,9 +2068,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 11,
-          "lineName": "Property - Ending Land",
-          "lineDescription": null,
+          "lineId": 25,
+          "lineName": "Property - Ending Land | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 0,
           "k1SuitTag": "",
@@ -2136,17 +2082,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Land,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:100100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11500,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Land,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:100100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11500,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Land,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:100100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -2155,9 +2102,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 15,
-          "lineName": "Sales - Gross Other Income",
-          "lineDescription": null,
+          "lineId": 22,
+          "lineName": "Sales - Gross Other Income | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 0,
           "k1SuitTag": "",
@@ -2169,57 +2116,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400800",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410110",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410160",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410210",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410245,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410245",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410270,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410270",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410280,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410280",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410290,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410290",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:440200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:440200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -2228,9 +2181,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 16,
-          "lineName": "Sales - Gross Receipts: Other Interest Income",
-          "lineDescription": null,
+          "lineId": 24,
+          "lineName": "Sales - Gross Receipts: Other Interest Income | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 0,
           "k1SuitTag": "",
@@ -2242,12 +2195,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -2256,9 +2215,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 14,
-          "lineName": "Sales - Gross Rental Income",
-          "lineDescription": null,
+          "lineId": 21,
+          "lineName": "Sales - Gross Rental Income | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 0,
           "k1SuitTag": "",
@@ -2270,47 +2229,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400200",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400300",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400350",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:40702,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400550",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40706",
@@ -2319,37 +2269,67 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405100",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405150",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405600",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 0,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405700",
                   "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "formId": null,
+          "formName": "1065",
+          "formSectionId": null,
+          "formSectionName": "Sch K-1",
+          "lineId": 28,
+          "lineName": "Sales - Ordinary Gross Receipts | Total",
+          "lineDescription": "Total",
+          "allocationMethod": "Default",
+          "amount": 0,
+          "k1SuitTag": "",
+          "accounts": [
+            {
+              "accountNumber": "40200",
+              "accountDescription": "40200 - Cost of sales",
+              "amount": 0,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Ordinary Gross Receipts,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500010",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         }
@@ -2359,9 +2339,11 @@ export const allocationsUAT = {
       "entityId": 100642,
       "entityIdentifier": "b051ed4a-1dd8-493d-a5ba-17f6cc465c02",
       "entityName": "Crossfire REIT, L.L.C.",
-      "taxableIncome": 622393424,
+      "entityCode": "018805",
+      "taxableIncome": 619753371,
       "defaultPercentage": 0.808,
       "cyplPercentage": 0.808,
+      "roundingRank": 1,
       "lines": [
         {
           "formId": null,
@@ -2372,71 +2354,78 @@ export const allocationsUAT = {
           "lineName": "Line 02",
           "lineDescription": null,
           "allocationMethod": "Default",
-          "amount": 4511546,
+          "amount": 2830163,
           "k1SuitTag": "FDK1_RRE",
           "accounts": [
             {
               "accountNumber": "40212",
               "accountDescription": "40212 - Insurance",
-              "amount": -351510,
+              "amount": -87007,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40212,US/NON US:US",
-                  "amount": 38881,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600100",
+                  "amount": 1097,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -34449,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600200",
+                  "amount": -21412,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -86506,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600300",
+                  "amount": -47171,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -190571,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600400",
+                  "amount": -2675,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -10806,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600600",
+                  "amount": -602,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -2433,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600650",
+                  "amount": -14348,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -57966,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -7660,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600700",
+                  "amount": -1896,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -87007,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40214",
               "accountDescription": "40214 - Rent Expense",
-              "amount": -30798,
+              "amount": -7623,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40214,US/NON US:US",
-                  "amount": -30798,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530500",
+                  "amount": -7623,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -7623,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40609",
@@ -2445,57 +2434,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400800",
                   "amount": 51032,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410100",
                   "amount": 34082,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410110",
                   "amount": 38260,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410160",
                   "amount": 128799,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410210",
                   "amount": 281968,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410245,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410245",
                   "amount": 664534,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410270,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410270",
                   "amount": 370241,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410280,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410280",
                   "amount": 203,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410290,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410290",
                   "amount": 15842,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:440200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:440200",
                   "amount": 430,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 1585391,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40702",
@@ -2504,47 +2499,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40702,US/NON US:US",
-                  "amount": 23640,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400100",
+                  "amount": 30796716,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 30773076,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400200",
                   "amount": -401385,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400300",
                   "amount": 2497789,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400350",
                   "amount": 253651,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:40702,US/NON US:US",
-                  "amount": -1860923,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 1860923,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400550",
                   "amount": 35183,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 33181954,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40706",
@@ -2553,37 +2539,33 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 368252,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405100",
+                  "amount": 1208152,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 839900,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405150",
+                  "amount": 802049,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 160922,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 641127,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405600",
                   "amount": -35721,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405700",
                   "amount": 31774,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 2006254,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "52631",
@@ -2592,12 +2574,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:549900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:52631,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:549900",
                   "amount": -12883,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -12883,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "52900",
@@ -2606,12 +2594,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:651200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:52900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:651200",
                   "amount": 808,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 808,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53001",
@@ -2620,27 +2614,33 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500560,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500560",
                   "amount": -60376,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500660,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500660",
                   "amount": -208098,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500760,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500760",
                   "amount": -21,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:512110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:512110",
                   "amount": -7,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -268502,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53003",
@@ -2649,125 +2649,103 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53003,US/NON US:US",
-                  "amount": 891459,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:640100",
+                  "amount": -8934441,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53003,US/NON US:US",
-                  "amount": -9825900,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53003,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:640150",
                   "amount": -101822,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53003,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:640300",
                   "amount": -77739,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -9114002,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53100",
               "accountDescription": "53100 - Depreciation",
-              "amount": -4094786,
+              "amount": -4094785,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,Code Section:743(b),EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Code Section:743(b),RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670140,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53100,US/NON US:US",
-                  "amount": 3621726,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670140,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670140",
                   "amount": -1416016,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670140,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53100,US/NON US:US",
-                  "amount": -3621726,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670200",
+                  "amount": -4381762,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53100,US/NON US:US",
-                  "amount": 3953432,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
-                  "amount": -4381763,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53100,US/NON US:US",
-                  "amount": -3953432,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670221,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670221",
                   "amount": 31,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670230,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53100,US/NON US:US",
-                  "amount": 177063,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670230,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670230",
                   "amount": -676977,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670230,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53100,US/NON US:US",
-                  "amount": -177063,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 2379939,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -4094785,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53204",
               "accountDescription": "53204 - Interest expense",
-              "amount": -7003772,
+              "amount": -8972835,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53204,US/NON US:US",
-                  "amount": -9356747,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204,US/NON US:US",
-                  "amount": 383912,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,Interest Expense:DFD,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Interest Expense:DFD,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204",
-                  "amount": 1969063,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:660200",
+                  "amount": -9356747,
+                  "allocationMethod": "Default"
+                },
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:660500",
+                  "amount": 383912,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -8972835,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53601",
@@ -2776,27 +2754,28 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53601,US/NON US:US",
-                  "amount": 114331,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:620200",
+                  "amount": -1007704,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53601,US/NON US:US",
-                  "amount": -1122035,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53601,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:620210",
                   "amount": -22891,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620250,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53601,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:620250",
                   "amount": -3040,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -1033635,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53602",
@@ -2805,107 +2784,113 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530200",
                   "amount": -8654,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530300",
                   "amount": -12437,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530310,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530310",
                   "amount": -40497,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530400",
                   "amount": -57159,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530900",
                   "amount": -9118,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530910,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530910",
                   "amount": -2114,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531000",
                   "amount": -1487,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531200",
                   "amount": -1753,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531210",
                   "amount": -1620,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531300",
                   "amount": -15143,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531600",
                   "amount": -752,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531700",
                   "amount": -50498,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:532100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:532100",
                   "amount": -3017,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613000",
                   "amount": -206,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613010,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613010",
                   "amount": -3781,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613020,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613020",
                   "amount": -7443,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613030,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613030",
                   "amount": -4657,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613040,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613040",
                   "amount": -2275,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613050,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613050",
                   "amount": -72549,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630440,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630440",
                   "amount": -10,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -295170,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53603",
@@ -2914,32 +2899,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:520200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:520200",
                   "amount": -420423,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:520400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:520400",
                   "amount": -17951,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:520700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:520700",
                   "amount": -398016,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:521000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:521000",
                   "amount": -123799,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:529000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:529000",
                   "amount": 95630,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -864559,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53607",
@@ -2948,72 +2939,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 296295,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": -296295,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660850,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 416210,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660850,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:660850",
                   "amount": -416210,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660850,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": -416210,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 1622613,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670110",
                   "amount": -1765988,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": -1622613,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670170,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 85250,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670170,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670170",
                   "amount": -90644,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670170,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": -85250,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670175,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670175",
                   "amount": -146398,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670190,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670190",
                   "amount": -3125,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -2422365,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53610",
@@ -3022,77 +2979,83 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530800",
                   "amount": -66148,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630660,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630660",
                   "amount": -78,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630700",
                   "amount": -22467,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630990,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630990",
                   "amount": -26,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636000",
                   "amount": -9277,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636005,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636005",
                   "amount": -59011,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636030,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636030",
                   "amount": -139700,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636040,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636040",
                   "amount": -46833,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636060,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636060",
                   "amount": -624662,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636065,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636065",
                   "amount": -19544,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636070,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636070",
                   "amount": -24186,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636080,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636080",
                   "amount": -14590,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636200",
                   "amount": -43143,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670300",
                   "amount": -58960,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -1128625,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53612",
@@ -3101,116 +3064,103 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501700",
                   "amount": -259770,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604100",
                   "amount": -24867,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604110",
                   "amount": -76966,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604160",
                   "amount": -3066,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604200",
                   "amount": -1956,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604300",
                   "amount": -42525,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604311,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604311",
                   "amount": -85469,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604316,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604316",
                   "amount": -61862,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630650",
                   "amount": -34,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:650400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:650400",
                   "amount": -3656,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -560171,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53615",
               "accountDescription": "53615 - Meals and Entertainment Expense",
-              "amount": -4169,
+              "amount": -4168,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 621,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530600",
+                  "amount": -621,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -1243,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610900",
+                  "amount": -1765,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 1765,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630410",
+                  "amount": -348,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -3529,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630420",
+                  "amount": -35,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630410,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 348,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630410,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -697,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630420,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 35,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630420,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -69,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630430,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 1399,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630430,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -2799,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630430",
+                  "amount": -1399,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -4168,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53700",
@@ -3219,37 +3169,43 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510100",
                   "amount": -1382164,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510500",
                   "amount": -199170,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510600",
                   "amount": -482,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510700",
                   "amount": -54727,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:511000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:511000",
                   "amount": 36503,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:511200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:511200",
                   "amount": -43433,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -1643473,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53800",
@@ -3258,202 +3214,208 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540100",
                   "amount": -5401,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540550",
                   "amount": -51957,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540600",
                   "amount": -202619,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540650",
                   "amount": -2842,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541000",
                   "amount": -6057,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541100",
                   "amount": -3778,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541200",
                   "amount": -1563,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541300",
                   "amount": -30362,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541400",
                   "amount": -35245,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542000",
                   "amount": -55291,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542100",
                   "amount": -7185,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542300",
                   "amount": -20653,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542400",
                   "amount": -21768,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543000",
                   "amount": -61300,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543300",
                   "amount": -14871,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543500",
                   "amount": -6525,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543700",
                   "amount": -15619,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543800",
                   "amount": -3449,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544000",
                   "amount": -2922,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544180,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544180",
                   "amount": -3387,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544350",
                   "amount": -29088,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544400",
                   "amount": -25188,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545000",
                   "amount": 18346,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545100",
                   "amount": -44289,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545200",
                   "amount": -433690,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545300",
                   "amount": -14963,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545350",
                   "amount": -408681,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:546000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:546000",
                   "amount": -37155,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:546100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:546100",
                   "amount": -8019,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:546700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:546700",
                   "amount": -6411,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:547000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:547000",
                   "amount": -49794,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:548200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:548200",
                   "amount": -7022,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:548800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:548800",
                   "amount": -14467,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:549300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:549300",
                   "amount": -17532,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:550000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:550000",
                   "amount": -10561,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:560000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:560000",
                   "amount": -10120,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:562000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:562000",
                   "amount": -11717,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:564000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:564000",
                   "amount": -6744,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:566000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:566000",
                   "amount": -22702,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -1692591,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53900",
@@ -3462,77 +3424,78 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500310,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500310",
                   "amount": -23,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53900,US/NON US:US",
-                  "amount": 211608,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500500",
+                  "amount": -69242,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
-                  "amount": -280850,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500600",
                   "amount": -429342,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500610,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500610",
                   "amount": -39357,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500700",
                   "amount": -816,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500710,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500710",
                   "amount": -811244,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500900",
                   "amount": -1563,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501400",
                   "amount": -204222,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501460,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501460",
                   "amount": -27145,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501600",
                   "amount": -87114,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501660,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501660",
                   "amount": -11238,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:502060,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:502060",
                   "amount": -1158,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:512111,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:512111",
                   "amount": -90,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -1682554,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "54000",
@@ -3541,82 +3504,73 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610100",
                   "amount": -2616,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:54000,US/NON US:US",
-                  "amount": 1013,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610500",
+                  "amount": -8534,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
-                  "amount": -9547,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610510",
                   "amount": -2674,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610610,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610610",
                   "amount": -14029,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610620,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610620",
                   "amount": -5484,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610650",
                   "amount": -828,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610700",
                   "amount": -2985,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610800",
                   "amount": -1722,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:611200",
                   "amount": -5416,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:611300",
                   "amount": -2482,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:54000,US/NON US:US",
-                  "amount": 1500,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
-                  "amount": -1500,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:612200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:612200",
                   "amount": -7314,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:612400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:612400",
                   "amount": -31,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -54115,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "54100",
@@ -3625,37 +3579,43 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630910,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630910",
                   "amount": -2762,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630920,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630920",
                   "amount": -1407,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630940,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630940",
                   "amount": -349,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630950,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630950",
                   "amount": -13,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630960,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630960",
                   "amount": -608,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630980,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630980",
                   "amount": -42,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -5181,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -3678,12 +3638,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 2163,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 2163,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -3706,12 +3672,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54600,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630100",
                   "amount": 671,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 671,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -3724,22 +3696,28 @@ export const allocationsUAT = {
           "lineName": "Line 13v",
           "lineDescription": null,
           "allocationMethod": "Default",
-          "amount": 2379939,
+          "amount": 2229275,
           "k1SuitTag": "FDK1_SEC743BNEGADJUST",
           "accounts": [
             {
               "accountNumber": "53100",
               "accountDescription": "53100 - Depreciation",
-              "amount": 2379939,
+              "amount": 2229275,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,Code Section:743(b),EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100",
-                  "amount": 2379939,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Code Section:743(b),RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
+                  "amount": 2229275,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 2229275,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -3762,12 +3740,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,Interest Expense:DFD,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Interest Expense:DFD,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 1969063,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 1969063,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -3790,57 +3774,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400800",
                   "amount": 51032,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410100",
                   "amount": 34082,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410110",
                   "amount": 38260,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410160",
                   "amount": 128799,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410210",
                   "amount": 281968,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410245,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410245",
                   "amount": 664534,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410270,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410270",
                   "amount": 370241,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410280,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410280",
                   "amount": 203,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410290,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410290",
                   "amount": 15842,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:440200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:440200",
                   "amount": 430,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 1585391,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40702",
@@ -3849,47 +3839,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40702,US/NON US:US",
-                  "amount": 23640,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400100",
+                  "amount": 30796716,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 30773076,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400200",
                   "amount": -401385,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400300",
                   "amount": 2497789,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400350",
                   "amount": 253651,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:40702,US/NON US:US",
-                  "amount": -1860923,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 1860923,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400550",
                   "amount": 35183,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 33181954,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40706",
@@ -3898,37 +3879,33 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 368252,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405100",
+                  "amount": 1208152,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 839900,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405150",
+                  "amount": 802049,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 160922,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 641127,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405600",
                   "amount": -35721,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405700",
                   "amount": 31774,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 2006254,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40800",
@@ -3937,12 +3914,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 2163,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 2163,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -3955,22 +3938,28 @@ export const allocationsUAT = {
           "lineName": "Line 18c",
           "lineDescription": null,
           "allocationMethod": "Default",
-          "amount": 6681,
+          "amount": 6682,
           "k1SuitTag": "FDK1_NDEDEXP",
           "accounts": [
             {
               "accountNumber": "32620",
               "accountDescription": "32620 - Partner Capital Adjustments",
-              "amount": 6681,
+              "amount": 6682,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:300150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:32620,US/NON US:US",
-                  "amount": 6681,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:300150",
+                  "amount": 6682,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 6682,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -3993,12 +3982,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 2163,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 2163,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -4007,11 +4002,99 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 9,
-          "lineName": "Line K - Ending",
-          "lineDescription": null,
+          "lineId": 29,
+          "lineName": "Line 20z | Section 199A Qualified Business Income/ (Deduction)",
+          "lineDescription": "Section 199A Qualified Business Income/ (Deduction)",
           "allocationMethod": "Default",
-          "amount": 221511836,
+          "amount": -808000,
+          "k1SuitTag": "",
+          "accounts": [
+            {
+              "accountNumber": "67802",
+              "accountDescription": "67802 - Section 199A Qualified Business Income/ (Deduction)",
+              "amount": -808000,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
+                  "amount": -808000,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -808000,
+                  "allocationMethod": "Default"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "formId": null,
+          "formName": "1065",
+          "formSectionId": null,
+          "formSectionName": "Sch K-1",
+          "lineId": 26,
+          "lineName": "Line K - Ending | Qualified Nonrecourse Financing",
+          "lineDescription": "Qualified Nonrecourse Financing",
+          "allocationMethod": "Default",
+          "amount": 214760873,
+          "k1SuitTag": "",
+          "accounts": [
+            {
+              "accountNumber": "22104",
+              "accountDescription": "22104 - Interest Payable",
+              "amount": 640873,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Qualified nonrecourse financing,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203500",
+                  "amount": 640873,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 640873,
+                  "allocationMethod": "Default"
+                }
+              ]
+            },
+            {
+              "accountNumber": "22400",
+              "accountDescription": "22400 - Long-Term Debt (Over One Year)",
+              "amount": 214120000,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Qualified nonrecourse financing,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:225100",
+                  "amount": 214120000,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 214120000,
+                  "allocationMethod": "Default"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "formId": null,
+          "formName": "1065",
+          "formSectionId": null,
+          "formSectionName": "Sch K-1",
+          "lineId": 23,
+          "lineName": "Line K - Ending | Recourse",
+          "lineDescription": "Recourse",
+          "allocationMethod": "Default",
+          "amount": 6750957,
           "k1SuitTag": "",
           "accounts": [
             {
@@ -4021,109 +4104,68 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:200100",
                   "amount": 100931,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:21900,US/NON US:US",
-                  "amount": 531951,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:200200",
+                  "amount": 588982,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:21900,US/NON US:US",
-                  "amount": -551147,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
-                  "amount": 608178,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:201100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:201100",
                   "amount": 102758,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:21900,US/NON US:US",
-                  "amount": -572887,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203100",
+                  "amount": 3758747,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
-                  "amount": 4331634,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203150",
                   "amount": 211601,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203200",
                   "amount": 40937,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203400,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203400",
                   "amount": 1841,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
-            },
-            {
-              "accountNumber": "22104",
-              "accountDescription": "22104 - Interest Payable",
-              "amount": 640873,
-              "allocationMethod": "Default",
-              "attributeSets": [
+              "businessUnits": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203500,Partnership Liabilities:Qualified nonrecourse financing,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22104,US/NON US:US",
-                  "amount": 640873,
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 4805797,
                   "allocationMethod": "Default"
                 }
-              ],
-              "businessUnits": []
-            },
-            {
-              "accountNumber": "22400",
-              "accountDescription": "22400 - Long-Term Debt (Over One Year)",
-              "amount": 214120004,
-              "allocationMethod": "Default",
-              "attributeSets": [
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:225100,Partnership Liabilities:Qualified nonrecourse financing,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22400,US/NON US:US",
-                  "amount": 214120004,
-                  "allocationMethod": "Default"
-                }
-              ],
-              "businessUnits": []
+              ]
             },
             {
               "accountNumber": "22506",
               "accountDescription": "22506 - Deferred Revenue",
-              "amount": 1401106,
+              "amount": 1401105,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:22506,US/NON US:US",
-                  "amount": -196540,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:22506,US/NON US:US",
-                  "amount": -23640,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22506,US/NON US:US",
-                  "amount": 1621286,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205200",
+                  "amount": 1401105,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 1401105,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "22508",
@@ -4132,61 +4174,53 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:204100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22508,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:204100",
                   "amount": 75935,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:208600,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22508,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:208600",
                   "amount": 11086,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 87021,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "22511",
               "accountDescription": "22511 - Other Liabilities",
-              "amount": 457035,
+              "amount": 457034,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:22511,US/NON US:US",
-                  "amount": -874990,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205100",
+                  "amount": -1,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:22511,US/NON US:US",
-                  "amount": 12883,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205150",
+                  "amount": 1,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22511,US/NON US:US",
-                  "amount": 862107,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:22511,US/NON US:US",
-                  "amount": -477809,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:22511,US/NON US:US",
-                  "amount": -101686,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22511,US/NON US:US",
-                  "amount": 579496,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205410,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22511,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205410",
                   "amount": 457034,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 457034,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -4195,9 +4229,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 12,
-          "lineName": "Property - Ending Accumulated Depreciation",
-          "lineDescription": null,
+          "lineId": 19,
+          "lineName": "Property - Ending Accumulated Depreciation | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": -44209541,
           "k1SuitTag": "",
@@ -4209,87 +4243,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:11200,US/NON US:US",
-                  "amount": 3953432,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106200",
+                  "amount": -31887709,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 37311198,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106300",
+                  "amount": -5027120,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": -4381763,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106400",
+                  "amount": -7288912,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": -68770577,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:11200,US/NON US:US",
-                  "amount": 177063,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": -3119619,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": -676977,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": -1407587,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:11200,US/NON US:US",
-                  "amount": 3621726,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 6010868,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": -1416016,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": -15505490,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106500",
                   "amount": -60978,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 57247,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": 31,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": -2099,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106510",
+                  "amount": 55178,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -44209541,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -4298,176 +4283,117 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 13,
-          "lineName": "Property - Ending Depreciable Assets (Cost)",
-          "lineDescription": null,
+          "lineId": 20,
+          "lineName": "Property - Ending Depreciable Assets (Cost) | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
-          "amount": 273624119,
+          "amount": 273624116,
           "k1SuitTag": "",
           "accounts": [
             {
               "accountNumber": "11100",
               "accountDescription": "11100 - Depreciable Assets",
-              "amount": 273624119,
+              "amount": 273624116,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:103100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 17763577,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:103100",
+                  "amount": 175900831,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:103100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 158137254,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104100",
+                  "amount": 9679268,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 3291256,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104105",
+                  "amount": 414656,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 6388012,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104105,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11100,US/NON US:US",
-                  "amount": 118159,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104105,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 296497,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104110",
                   "amount": 242626,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104120,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104120",
                   "amount": -6522295,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 17177935,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104200",
+                  "amount": 24223789,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 7045855,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104500",
+                  "amount": 3848252,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 2125559,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104510",
+                  "amount": 1994626,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11100,US/NON US:US",
-                  "amount": 1722693,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104520",
+                  "amount": 35475733,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 191215,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 1803412,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104520,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 4948552,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104520,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 30527181,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104525,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104525",
                   "amount": 1384053,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104530,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 5140650,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104530",
+                  "amount": 17307363,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104530,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 12166714,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104540",
+                  "amount": 1860453,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104540,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 105904,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104550",
+                  "amount": -49014584,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104540,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 1754549,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104600",
+                  "amount": 56823544,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": -2053624,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": -46960960,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 9862585,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 46960959,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105100",
                   "amount": -312312,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 62283,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105200",
+                  "amount": 351319,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 289036,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105201",
+                  "amount": -60360,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105201,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 253730,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105201,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": -314090,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105300",
                   "amount": 27154,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 273624116,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -4476,9 +4402,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 11,
-          "lineName": "Property - Ending Land",
-          "lineDescription": null,
+          "lineId": 25,
+          "lineName": "Property - Ending Land | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 89043260,
           "k1SuitTag": "",
@@ -4490,17 +4416,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Land,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:100100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11500,US/NON US:US",
-                  "amount": 42098460,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Land,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:100100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11500,US/NON US:US",
-                  "amount": 46944800,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Land,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:100100",
+                  "amount": 89043260,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 89043260,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -4509,9 +4436,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 15,
-          "lineName": "Sales - Gross Other Income",
-          "lineDescription": null,
+          "lineId": 22,
+          "lineName": "Sales - Gross Other Income | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 1585391,
           "k1SuitTag": "",
@@ -4523,57 +4450,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400800",
                   "amount": 51032,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410100",
                   "amount": 34082,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410110",
                   "amount": 38260,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410160",
                   "amount": 128799,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410210",
                   "amount": 281968,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410245,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410245",
                   "amount": 664534,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410270,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410270",
                   "amount": 370241,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410280,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410280",
                   "amount": 203,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410290,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410290",
                   "amount": 15842,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:440200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:440200",
                   "amount": 430,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 1585391,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -4582,9 +4515,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 16,
-          "lineName": "Sales - Gross Receipts: Other Interest Income",
-          "lineDescription": null,
+          "lineId": 24,
+          "lineName": "Sales - Gross Receipts: Other Interest Income | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 2163,
           "k1SuitTag": "",
@@ -4596,12 +4529,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 2163,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 2163,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -4610,9 +4549,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 14,
-          "lineName": "Sales - Gross Rental Income",
-          "lineDescription": null,
+          "lineId": 21,
+          "lineName": "Sales - Gross Rental Income | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 35188208,
           "k1SuitTag": "",
@@ -4624,47 +4563,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40702,US/NON US:US",
-                  "amount": 23640,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400100",
+                  "amount": 30796716,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 30773076,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400200",
                   "amount": -401385,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400300",
                   "amount": 2497789,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400350",
                   "amount": 253651,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:40702,US/NON US:US",
-                  "amount": -1860923,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 1860923,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400550",
                   "amount": 35183,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 33181954,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40706",
@@ -4673,37 +4603,67 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 368252,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405100",
+                  "amount": 1208152,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 839900,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405150",
+                  "amount": 802049,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 160922,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 641127,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405600",
                   "amount": -35721,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405700",
                   "amount": 31774,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 2006254,
+                  "allocationMethod": "Default"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "formId": null,
+          "formName": "1065",
+          "formSectionId": null,
+          "formSectionName": "Sch K-1",
+          "lineId": 28,
+          "lineName": "Sales - Ordinary Gross Receipts | Total",
+          "lineDescription": "Total",
+          "allocationMethod": "Default",
+          "amount": 2,
+          "k1SuitTag": "",
+          "accounts": [
+            {
+              "accountNumber": "40200",
+              "accountDescription": "40200 - Cost of sales",
+              "amount": 2,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Ordinary Gross Receipts,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500010",
+                  "amount": 2,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 2,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         }
@@ -4713,9 +4673,11 @@ export const allocationsUAT = {
       "entityId": 100862,
       "entityIdentifier": "aecaabfe-bbea-4545-81f9-0068d7f2053f",
       "entityName": "TST 666 Third, LLC",
-      "taxableIncome": 147895465,
+      "entityCode": "980676-1",
+      "taxableIncome": 147477087,
       "defaultPercentage": 0.192,
       "cyplPercentage": 0.192,
+      "roundingRank": 0,
       "lines": [
         {
           "formId": null,
@@ -4726,71 +4688,78 @@ export const allocationsUAT = {
           "lineName": "Line 02",
           "lineDescription": null,
           "allocationMethod": "Default",
-          "amount": 1072059,
+          "amount": 695007,
           "k1SuitTag": "FDK1_RRE",
           "accounts": [
             {
               "accountNumber": "40212",
               "accountDescription": "40212 - Insurance",
-              "amount": -83527,
+              "amount": 0,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40212,US/NON US:US",
-                  "amount": 9239,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600100",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -8186,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600200",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -20556,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600300",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -45284,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600400",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -2568,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600600",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -578,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600650",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -13774,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:600700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40212,US/NON US:US",
-                  "amount": -1820,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:600700",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40214",
               "accountDescription": "40214 - Rent Expense",
-              "amount": -7318,
+              "amount": 0,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40214,US/NON US:US",
-                  "amount": -7318,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530500",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 0,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40609",
@@ -4799,57 +4768,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400800",
                   "amount": 12126,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410100",
                   "amount": 8099,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410110",
                   "amount": 9091,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410160",
                   "amount": 30606,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410210",
                   "amount": 67002,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410245,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410245",
                   "amount": 157909,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410270,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410270",
                   "amount": 87978,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410280,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410280",
                   "amount": 48,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410290,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410290",
                   "amount": 3765,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:440200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:440200",
                   "amount": 102,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 376726,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40702",
@@ -4858,47 +4833,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40702,US/NON US:US",
-                  "amount": 5618,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400100",
+                  "amount": 7318032,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 7312414,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400200",
                   "amount": -95379,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400300",
                   "amount": 593534,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400350",
                   "amount": 60274,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:40702,US/NON US:US",
-                  "amount": -442200,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 442200,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400550",
                   "amount": 8360,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 7884821,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40706",
@@ -4907,37 +4873,33 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 87506,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405100",
+                  "amount": 287086,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 199580,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405150",
+                  "amount": 190586,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 38239,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 152347,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405600",
                   "amount": -8488,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405700",
                   "amount": 7550,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 476734,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "52631",
@@ -4946,12 +4908,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:549900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:52631,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:549900",
                   "amount": -3061,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -3061,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "52900",
@@ -4960,12 +4928,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:651200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:52900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:651200",
                   "amount": 192,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 192,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53001",
@@ -4974,27 +4948,33 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500560,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500560",
                   "amount": -14347,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500660,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500660",
                   "amount": -49449,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500760,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500760",
                   "amount": -5,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:512110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53001,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:512110",
                   "amount": -2,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -63803,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53003",
@@ -5003,125 +4983,103 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53003,US/NON US:US",
-                  "amount": 211832,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:640100",
+                  "amount": -2123035,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53003,US/NON US:US",
-                  "amount": -2334867,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53003,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:640150",
                   "amount": -24195,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:640300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53003,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:640300",
                   "amount": -18473,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -2165703,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53100",
               "accountDescription": "53100 - Depreciation",
-              "amount": -973018,
+              "amount": -973019,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,Code Section:743(b),EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Code Section:743(b),RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670140,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53100,US/NON US:US",
-                  "amount": 860608,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670140,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670140",
                   "amount": -336479,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670140,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53100,US/NON US:US",
-                  "amount": -860608,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670200",
+                  "amount": -1041211,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53100,US/NON US:US",
-                  "amount": 939429,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
-                  "amount": -1041210,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53100,US/NON US:US",
-                  "amount": -939429,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670221,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670221",
                   "amount": 7,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670230,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53100,US/NON US:US",
-                  "amount": 42074,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670230,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670230",
                   "amount": -160866,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670230,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53100,US/NON US:US",
-                  "amount": -42074,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 565530,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -973019,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53204",
               "accountDescription": "53204 - Interest expense",
-              "amount": -1664263,
+              "amount": -2132159,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53204,US/NON US:US",
-                  "amount": -2223385,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204,US/NON US:US",
-                  "amount": 91226,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,Interest Expense:DFD,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Interest Expense:DFD,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204",
-                  "amount": 467896,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:660200",
+                  "amount": -2223385,
+                  "allocationMethod": "Default"
+                },
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:660500",
+                  "amount": 91226,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -2132159,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53601",
@@ -5130,27 +5088,28 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53601,US/NON US:US",
-                  "amount": 27168,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:620200",
+                  "amount": -239454,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53601,US/NON US:US",
-                  "amount": -266622,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53601,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:620210",
                   "amount": -5439,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:620250,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53601,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:620250",
                   "amount": -722,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -245615,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53602",
@@ -5159,107 +5118,113 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530200",
                   "amount": -2056,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530300",
                   "amount": -2955,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530310,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530310",
                   "amount": -9623,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530400",
                   "amount": -13582,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530900",
                   "amount": -2167,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530910,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530910",
                   "amount": -502,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531000",
                   "amount": -353,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531200",
                   "amount": -416,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531210",
                   "amount": -385,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531300",
                   "amount": -3598,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531600",
                   "amount": -179,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:531700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:531700",
                   "amount": -12000,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:532100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:532100",
                   "amount": -717,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613000",
                   "amount": -49,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613010,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613010",
                   "amount": -898,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613020,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613020",
                   "amount": -1769,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613030,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613030",
                   "amount": -1107,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613040,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613040",
                   "amount": -541,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:613050,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:613050",
                   "amount": -17239,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630440,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53602,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630440",
                   "amount": -2,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -70138,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53603",
@@ -5268,32 +5233,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:520200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:520200",
                   "amount": -99903,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:520400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:520400",
                   "amount": -4265,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:520700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:520700",
                   "amount": -94578,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:521000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:521000",
                   "amount": -29418,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:529000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53603,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:529000",
                   "amount": 22724,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -205440,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53607",
@@ -5302,72 +5273,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 70407,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": -70407,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660850,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 98902,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660850,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:660850",
                   "amount": -98902,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:660850,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": -98902,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 385572,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670110",
                   "amount": -419641,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": -385572,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670170,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53607,US/NON US:US",
-                  "amount": 20257,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670170,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670170",
                   "amount": -21539,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670170,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53607,US/NON US:US",
-                  "amount": -20257,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670175,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670175",
                   "amount": -34788,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670190,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53607,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670190",
                   "amount": -742,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -575612,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53610",
@@ -5376,77 +5313,83 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530800",
                   "amount": -15718,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630660,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630660",
                   "amount": -18,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630700",
                   "amount": -5339,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630990,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630990",
                   "amount": -6,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636000",
                   "amount": -2204,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636005,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636005",
                   "amount": -14023,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636030,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636030",
                   "amount": -33196,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636040,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636040",
                   "amount": -11129,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636060,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636060",
                   "amount": -148434,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636065,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636065",
                   "amount": -4644,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636070,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636070",
                   "amount": -5747,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636080,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636080",
                   "amount": -3467,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:636200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:636200",
                   "amount": -10252,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:670300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53610,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:670300",
                   "amount": -14010,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -268187,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53612",
@@ -5455,57 +5398,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501700",
                   "amount": -61727,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604100",
                   "amount": -5909,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604110",
                   "amount": -18289,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604160",
                   "amount": -729,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604200",
                   "amount": -465,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604300",
                   "amount": -10105,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604311,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604311",
                   "amount": -20309,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:604316,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:604316",
                   "amount": -14700,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630650",
                   "amount": -8,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:650400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53612,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:650400",
                   "amount": -869,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -133110,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53615",
@@ -5514,57 +5463,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 148,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:530600",
+                  "amount": -148,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:530600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -295,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610900",
+                  "amount": -419,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 419,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630410",
+                  "amount": -83,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -839,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630420",
+                  "amount": -8,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630410,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 83,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630410,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -166,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630420,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 8,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630420,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -17,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630430,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:53615,US/NON US:US",
-                  "amount": 333,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630430,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53615,US/NON US:US",
-                  "amount": -665,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630430",
+                  "amount": -333,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -991,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53700",
@@ -5573,37 +5503,43 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510100",
                   "amount": -328435,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510500",
                   "amount": -47327,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510600",
                   "amount": -115,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:510700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:510700",
                   "amount": -13004,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:511000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:511000",
                   "amount": 8674,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:511200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53700,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:511200",
                   "amount": -10321,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -390528,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53800",
@@ -5612,202 +5548,208 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540100",
                   "amount": -1283,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540550",
                   "amount": -12346,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540600",
                   "amount": -48147,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:540650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:540650",
                   "amount": -675,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541000",
                   "amount": -1439,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541100",
                   "amount": -898,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541200",
                   "amount": -371,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541300",
                   "amount": -7215,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:541400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:541400",
                   "amount": -8375,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542000",
                   "amount": -13138,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542100",
                   "amount": -1707,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542300",
                   "amount": -4908,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:542400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:542400",
                   "amount": -5172,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543000",
                   "amount": -14566,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543300",
                   "amount": -3534,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543500",
                   "amount": -1551,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543700",
                   "amount": -3712,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:543800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:543800",
                   "amount": -819,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544000",
                   "amount": -694,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544180,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544180",
                   "amount": -805,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544350",
                   "amount": -6912,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:544400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:544400",
                   "amount": -5985,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545000",
                   "amount": 4360,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545100",
                   "amount": -10524,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545200",
                   "amount": -103055,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545300",
                   "amount": -3555,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:545350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:545350",
                   "amount": -97112,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:546000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:546000",
                   "amount": -8829,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:546100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:546100",
                   "amount": -1906,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:546700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:546700",
                   "amount": -1523,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:547000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:547000",
                   "amount": -11832,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:548200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:548200",
                   "amount": -1669,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:548800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:548800",
                   "amount": -3438,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:549300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:549300",
                   "amount": -4166,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:550000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:550000",
                   "amount": -2509,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:560000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:560000",
                   "amount": -2405,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:562000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:562000",
                   "amount": -2784,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:564000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:564000",
                   "amount": -1603,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:566000,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:566000",
                   "amount": -5394,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -402196,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "53900",
@@ -5816,77 +5758,78 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500310,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500310",
                   "amount": -5,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53900,US/NON US:US",
-                  "amount": 50283,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500500",
+                  "amount": -16454,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
-                  "amount": -66737,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500600",
                   "amount": -102022,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500610,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500610",
                   "amount": -9352,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500700",
                   "amount": -194,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500710,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500710",
                   "amount": -192771,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:500900,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500900",
                   "amount": -371,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501400",
                   "amount": -48528,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501460,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501460",
                   "amount": -6450,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501600",
                   "amount": -20700,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:501660,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:501660",
                   "amount": -2671,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:502060,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:502060",
                   "amount": -275,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:512111,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:53900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:512111",
                   "amount": -21,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -399814,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "54000",
@@ -5895,82 +5838,73 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610100",
                   "amount": -622,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:54000,US/NON US:US",
-                  "amount": 241,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610500",
+                  "amount": -2028,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
-                  "amount": -2269,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610510",
                   "amount": -635,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610610,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610610",
                   "amount": -3334,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610620,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610620",
                   "amount": -1303,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610650,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610650",
                   "amount": -197,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610700",
                   "amount": -709,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:610800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:610800",
                   "amount": -409,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:611200",
                   "amount": -1287,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:611300",
                   "amount": -590,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:54000,US/NON US:US",
-                  "amount": 356,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:611400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
-                  "amount": -356,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:612200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:612200",
                   "amount": -1738,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:612400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54000,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:612400",
                   "amount": -7,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -12859,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "54100",
@@ -5979,37 +5913,43 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630910,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630910",
                   "amount": -656,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630920,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630920",
                   "amount": -334,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630940,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630940",
                   "amount": -83,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630950,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630950",
                   "amount": -3,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630960,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630960",
                   "amount": -145,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630980,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630980",
                   "amount": -10,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -1231,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6032,12 +5972,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 514,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 514,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6060,12 +6006,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:630100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:54600,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:630100",
                   "amount": 160,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 160,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6078,22 +6030,28 @@ export const allocationsUAT = {
           "lineName": "Line 13v",
           "lineDescription": null,
           "allocationMethod": "Default",
-          "amount": 565530,
+          "amount": 716194,
           "k1SuitTag": "FDK1_SEC743BNEGADJUST",
           "accounts": [
             {
               "accountNumber": "53100",
               "accountDescription": "53100 - Depreciation",
-              "amount": 565530,
+              "amount": 716194,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,Code Section:743(b),EntityBusinessUnitId:2030,EntityCode:644177,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53100",
-                  "amount": 565530,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Code Section:743(b),RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
+                  "amount": 716194,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 716194,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6116,12 +6074,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,Interest Expense:DFD,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:53204",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Interest Expense:DFD,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
                   "amount": 467896,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 467896,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6144,57 +6108,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400800",
                   "amount": 12126,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410100",
                   "amount": 8099,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410110",
                   "amount": 9091,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410160",
                   "amount": 30606,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410210",
                   "amount": 67002,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410245,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410245",
                   "amount": 157909,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410270,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410270",
                   "amount": 87978,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410280,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410280",
                   "amount": 48,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410290,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410290",
                   "amount": 3765,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:440200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:440200",
                   "amount": 102,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 376726,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40702",
@@ -6203,47 +6173,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40702,US/NON US:US",
-                  "amount": 5618,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400100",
+                  "amount": 7318032,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 7312414,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400200",
                   "amount": -95379,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400300",
                   "amount": 593534,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400350",
                   "amount": 60274,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:40702,US/NON US:US",
-                  "amount": -442200,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 442200,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400550",
                   "amount": 8360,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 7884821,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40706",
@@ -6252,37 +6213,33 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 87506,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405100",
+                  "amount": 287086,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 199580,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405150",
+                  "amount": 190586,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 38239,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 152347,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405600",
                   "amount": -8488,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405700",
                   "amount": 7550,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 476734,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40800",
@@ -6291,12 +6248,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 514,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 514,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6319,12 +6282,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:300150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:32620,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:300150",
                   "amount": 1588,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 1588,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6347,12 +6316,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 514,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 514,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6361,11 +6336,99 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 9,
-          "lineName": "Line K - Ending",
-          "lineDescription": null,
+          "lineId": 29,
+          "lineName": "Line 20z | Section 199A Qualified Business Income/ (Deduction)",
+          "lineDescription": "Section 199A Qualified Business Income/ (Deduction)",
           "allocationMethod": "Default",
-          "amount": 52636468,
+          "amount": -192000,
+          "k1SuitTag": "",
+          "accounts": [
+            {
+              "accountNumber": "67802",
+              "accountDescription": "67802 - Section 199A Qualified Business Income/ (Deduction)",
+              "amount": -192000,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.",
+                  "amount": -192000,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -192000,
+                  "allocationMethod": "Default"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "formId": null,
+          "formName": "1065",
+          "formSectionId": null,
+          "formSectionName": "Sch K-1",
+          "lineId": 26,
+          "lineName": "Line K - Ending | Qualified Nonrecourse Financing",
+          "lineDescription": "Qualified Nonrecourse Financing",
+          "allocationMethod": "Default",
+          "amount": 51032287,
+          "k1SuitTag": "",
+          "accounts": [
+            {
+              "accountNumber": "22104",
+              "accountDescription": "22104 - Interest Payable",
+              "amount": 152287,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Qualified nonrecourse financing,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203500",
+                  "amount": 152287,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 152287,
+                  "allocationMethod": "Default"
+                }
+              ]
+            },
+            {
+              "accountNumber": "22400",
+              "accountDescription": "22400 - Long-Term Debt (Over One Year)",
+              "amount": 50880000,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Qualified nonrecourse financing,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:225100",
+                  "amount": 50880000,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 50880000,
+                  "allocationMethod": "Default"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "formId": null,
+          "formName": "1065",
+          "formSectionId": null,
+          "formSectionName": "Sch K-1",
+          "lineId": 23,
+          "lineName": "Line K - Ending | Recourse",
+          "lineDescription": "Recourse",
+          "allocationMethod": "Default",
+          "amount": 1604187,
           "k1SuitTag": "",
           "accounts": [
             {
@@ -6375,109 +6438,68 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:200100",
                   "amount": 23984,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:21900,US/NON US:US",
-                  "amount": 126404,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:200200",
+                  "amount": 139956,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:21900,US/NON US:US",
-                  "amount": -130965,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:200200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
-                  "amount": 144517,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:201100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:201100",
                   "amount": 24418,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:21900,US/NON US:US",
-                  "amount": -136132,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203100",
+                  "amount": 893167,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
-                  "amount": 1029299,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203150",
                   "amount": 50281,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203200",
                   "amount": 9728,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203400,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:21900,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:203400",
                   "amount": 437,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
-            },
-            {
-              "accountNumber": "22104",
-              "accountDescription": "22104 - Interest Payable",
-              "amount": 152287,
-              "allocationMethod": "Default",
-              "attributeSets": [
+              "businessUnits": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:203500,Partnership Liabilities:Qualified nonrecourse financing,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22104,US/NON US:US",
-                  "amount": 152287,
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 1141971,
                   "allocationMethod": "Default"
                 }
-              ],
-              "businessUnits": []
-            },
-            {
-              "accountNumber": "22400",
-              "accountDescription": "22400 - Long-Term Debt (Over One Year)",
-              "amount": 50879996,
-              "allocationMethod": "Default",
-              "attributeSets": [
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:225100,Partnership Liabilities:Qualified nonrecourse financing,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22400,US/NON US:US",
-                  "amount": 50879996,
-                  "allocationMethod": "Default"
-                }
-              ],
-              "businessUnits": []
+              ]
             },
             {
               "accountNumber": "22506",
               "accountDescription": "22506 - Deferred Revenue",
-              "amount": 332935,
+              "amount": 332936,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:22506,US/NON US:US",
-                  "amount": -46703,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:22506,US/NON US:US",
-                  "amount": -5618,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205200,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22506,US/NON US:US",
-                  "amount": 385256,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205200",
+                  "amount": 332936,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 332936,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "22508",
@@ -6486,61 +6508,53 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:204100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22508,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:204100",
                   "amount": 18044,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:208600,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22508,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:208600",
                   "amount": 2634,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 20678,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "22511",
               "accountDescription": "22511 - Other Liabilities",
-              "amount": 108601,
+              "amount": 108602,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:22511,US/NON US:US",
-                  "amount": -207919,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205100",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:22511,US/NON US:US",
-                  "amount": 3061,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205150",
+                  "amount": 0,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205100,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22511,US/NON US:US",
-                  "amount": 204857,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:22511,US/NON US:US",
-                  "amount": -113539,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:22511,US/NON US:US",
-                  "amount": -24163,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205150,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22511,US/NON US:US",
-                  "amount": 137702,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:205410,Partnership Liabilities:Recourse,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:22511,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Partnership Liabilities:Recourse,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:205410",
                   "amount": 108602,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 108602,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6549,9 +6563,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 12,
-          "lineName": "Property - Ending Accumulated Depreciation",
-          "lineDescription": null,
+          "lineId": 19,
+          "lineName": "Property - Ending Accumulated Depreciation | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": -10505238,
           "k1SuitTag": "",
@@ -6563,87 +6577,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:11200,US/NON US:US",
-                  "amount": 939429,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106200",
+                  "amount": -7577278,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 8866027,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106300",
+                  "amount": -1194563,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": -1041210,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106400",
+                  "amount": -1732019,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": -16341523,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:11200,US/NON US:US",
-                  "amount": 42074,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": -741295,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": -160866,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": -334476,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:11200,US/NON US:US",
-                  "amount": 860608,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 1428325,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": -336479,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": -3684473,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106500",
                   "amount": -14490,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11200,US/NON US:US",
-                  "amount": 13603,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11200,US/NON US:US",
-                  "amount": 7,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Accumulated Depreciation,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:106510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11200,US/NON US:US",
-                  "amount": -499,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Accumulated Depreciation,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:106510",
+                  "amount": 13112,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": -10505238,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6652,176 +6617,117 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 13,
-          "lineName": "Property - Ending Depreciable Assets (Cost)",
-          "lineDescription": null,
+          "lineId": 20,
+          "lineName": "Property - Ending Depreciable Assets (Cost) | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
-          "amount": 65019590,
+          "amount": 65019593,
           "k1SuitTag": "",
           "accounts": [
             {
               "accountNumber": "11100",
               "accountDescription": "11100 - Depreciable Assets",
-              "amount": 65019590,
+              "amount": 65019593,
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:103100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 4221048,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:103100",
+                  "amount": 41798217,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:103100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 37577169,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104100",
+                  "amount": 2300024,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 782081,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104105",
+                  "amount": 98532,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 1517943,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104105,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11100,US/NON US:US",
-                  "amount": 28077,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104105,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 70455,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104110",
                   "amount": 57654,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104120,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104120",
                   "amount": -1549852,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 4081885,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104200",
+                  "amount": 5756148,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 1674262,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104500",
+                  "amount": 914436,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 505083,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104510",
+                  "amount": 473971,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104500,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:11100,US/NON US:US",
-                  "amount": 409353,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104520",
+                  "amount": 8429877,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 45437,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104510,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 428533,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104520,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 1175893,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104520,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 7253984,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104525,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104525",
                   "amount": 328884,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104530,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 1221540,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104530",
+                  "amount": 4112641,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104530,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 2891100,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104540",
+                  "amount": 442088,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104540,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 25165,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104550",
+                  "amount": -11647030,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104540,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 416923,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:104600",
+                  "amount": 13502624,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": -487990,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": -11159040,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 2343584,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:104600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 11159040,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105100",
                   "amount": -74213,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 14800,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105200",
+                  "amount": 83482,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": 68682,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105201",
+                  "amount": -14343,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105201,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11100,US/NON US:US",
-                  "amount": 60292,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105201,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
-                  "amount": -74635,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Depreciable Assets (Cost),BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:105300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11100,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Depreciable Assets (Cost),RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:105300",
                   "amount": 6453,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 65019593,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6830,9 +6736,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 11,
-          "lineName": "Property - Ending Land",
-          "lineDescription": null,
+          "lineId": 25,
+          "lineName": "Property - Ending Land | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 21158794,
           "k1SuitTag": "",
@@ -6844,17 +6750,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Land,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:100100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Connected App,TaxAccount:11500,US/NON US:US",
-                  "amount": 10003594,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Property - Ending Land,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:100100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:11500,US/NON US:US",
-                  "amount": 11155200,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Property - Ending Land,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:100100",
+                  "amount": 21158794,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 21158794,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6863,9 +6770,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 15,
-          "lineName": "Sales - Gross Other Income",
-          "lineDescription": null,
+          "lineId": 22,
+          "lineName": "Sales - Gross Other Income | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 376726,
           "k1SuitTag": "",
@@ -6877,57 +6784,63 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400800,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400800",
                   "amount": 12126,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410100",
                   "amount": 8099,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410110,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410110",
                   "amount": 9091,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410160,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410160",
                   "amount": 30606,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410210,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410210",
                   "amount": 67002,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410245,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410245",
                   "amount": 157909,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410270,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410270",
                   "amount": 87978,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410280,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410280",
                   "amount": 48,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:410290,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:410290",
                   "amount": 3765,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Other Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:440200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40609,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Other Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:440200",
                   "amount": 102,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 376726,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6936,9 +6849,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 16,
-          "lineName": "Sales - Gross Receipts: Other Interest Income",
-          "lineDescription": null,
+          "lineId": 24,
+          "lineName": "Sales - Gross Receipts: Other Interest Income | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 514,
           "k1SuitTag": "",
@@ -6950,12 +6863,18 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Receipts- Other Interest Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:420100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40800,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Receipts: Other Interest Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:420100",
                   "amount": 514,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 514,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         },
@@ -6964,9 +6883,9 @@ export const allocationsUAT = {
           "formName": "1065",
           "formSectionId": null,
           "formSectionName": "Sch K-1",
-          "lineId": 14,
-          "lineName": "Sales - Gross Rental Income",
-          "lineDescription": null,
+          "lineId": 21,
+          "lineName": "Sales - Gross Rental Income | Total",
+          "lineDescription": "Total",
           "allocationMethod": "Default",
           "amount": 8361555,
           "k1SuitTag": "",
@@ -6978,47 +6897,38 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40702,US/NON US:US",
-                  "amount": 5618,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400100",
+                  "amount": 7318032,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 7312414,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400200,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400200",
                   "amount": -95379,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400300,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400300",
                   "amount": 593534,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400350,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400350",
                   "amount": 60274,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Auto Adjustments,TaxAccount:40702,US/NON US:US",
-                  "amount": -442200,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400400,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
-                  "amount": 442200,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:400550,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40702,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:400550",
                   "amount": 8360,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 7884821,
+                  "allocationMethod": "Default"
+                }
+              ]
             },
             {
               "accountNumber": "40706",
@@ -7027,37 +6937,67 @@ export const allocationsUAT = {
               "allocationMethod": "Default",
               "attributeSets": [
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 87506,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405100",
+                  "amount": 287086,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405100,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 199580,
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405150",
+                  "amount": 190586,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Manual,TaxAccount:40706,US/NON US:US",
-                  "amount": 38239,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405150,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
-                  "amount": 152347,
-                  "allocationMethod": "Default"
-                },
-                {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405600,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405600",
                   "amount": -8488,
                   "allocationMethod": "Default"
                 },
                 {
-                  "attributeSetName": "Activity:Rental Real Estate,Apportionment:Sales - Gross Rental Income,BusinessUnitname:Crossfire I. L.P.,EntityBusinessUnitId:2030,EntityCode:644177,GLAccount:405700,ProfileId:075f1c99-42fb-4d4d-a8dc-5cd1909fc169,SourceOfData:Trial Balance Posting,TaxAccount:40706,US/NON US:US",
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Gross Rental Income,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:405700",
                   "amount": 7550,
                   "allocationMethod": "Default"
                 }
               ],
-              "businessUnits": []
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 476734,
+                  "allocationMethod": "Default"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "formId": null,
+          "formName": "1065",
+          "formSectionId": null,
+          "formSectionName": "Sch K-1",
+          "lineId": 28,
+          "lineName": "Sales - Ordinary Gross Receipts | Total",
+          "lineDescription": "Total",
+          "allocationMethod": "Default",
+          "amount": 1,
+          "k1SuitTag": "",
+          "accounts": [
+            {
+              "accountNumber": "40200",
+              "accountDescription": "40200 - Cost of sales",
+              "amount": 1,
+              "allocationMethod": "Default",
+              "attributeSets": [
+                {
+                  "attributeSetName": "RPAMAc_Activity:Rental Real Estate,RPAMAc_Apportionment:Sales - Ordinary Gross Receipts,RPAMAc_US/NON US:US,RPAMAl_Deal:Chrysler East,RPAMAl_Jurisdiction:New York,RPAMOt_BusinessUnitname:Crossfire I, L.P.,RPAMOt_GLAccount:500010",
+                  "amount": 1,
+                  "allocationMethod": "Default"
+                }
+              ],
+              "businessUnits": [
+                {
+                  "businessUnitName": "Crossfire I, L.P.",
+                  "amount": 1,
+                  "allocationMethod": "Default"
+                }
+              ]
             }
           ]
         }

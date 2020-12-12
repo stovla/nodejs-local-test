@@ -61,7 +61,8 @@ export const amountUAT = {
             "attributeName": "EntityBusinessUnitId",
             "attributesValue": "2030"
           }
-        ]
+        ],
+        "totalAmount": 10000
       },
       {
         "jobId": 1230,
